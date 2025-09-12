@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://c.tenor.com/IH_TkAC2dQQAAAAC/tenor.gif" alt="Batman" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Nazar (neyzi)</h1>
 <h3 align="center">Frontend & Fullstack Developer</h3>
 
