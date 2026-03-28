@@ -48,6 +48,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### 🎨 Design & Other
 ![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
